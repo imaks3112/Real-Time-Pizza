@@ -1,0 +1,6 @@
+npm install express
+
+npm install express ejs express-ejs-layouts
+
+npm install nodemon -D
+
