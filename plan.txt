@@ -1,6 +1,26 @@
+/*running commands
+
+npm run dev
+npm run watch
+
+
+
+*/
+//part 4 ---19 min
+//part 5 ---33.40min
+
+
 npm install express
 
 npm install express ejs express-ejs-layouts
 
 npm install nodemon -D
 
+
+
+//laravel-mix
+//adding path webpack-mic file
+
+npm install laravel-mix --save-dev
+
+copy node_modules/laravel-mix/setup/webpack.mix.js .\
