@@ -1,3 +1,20 @@
+install express
+install express-session
+install laravel
+install nodemon
+install mongodb
+install atlas
+install compass
+install detenv
+install express-flash
+install connect-mongo
+install laravel-mix
+install axios
+install noty
+
+
+
+
 /*running commands
 
 npm run dev
@@ -8,7 +25,9 @@ npm run watch
 */
 //part 4 ---19 min
 //part 5 ---33.40min
-
+//part 6 --- start
+//  35.00min
+//part 6 ---1.37.14 min
 
 npm install express
 

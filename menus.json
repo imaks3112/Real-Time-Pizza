@@ -1,0 +1,51 @@
+
+[
+    {
+        "name":"Margherita",
+        "image":"pizza11.png",
+        "price":"300",
+        "size":"Large"
+    },
+    {
+        "name":"Carbonara",
+        "image":"pizza11.png",
+        "price":"340",
+        "size":"Large"
+    },
+    {
+        "name":"Papermelon",
+        "image":"pizza11.png",
+        "price":"350",
+        "size":"Large"
+    },
+    {
+        "name":"Carbonara",
+        "image":"pizza11.png",
+        "price":"300",
+        "size":"Small"
+    },
+    {
+        "name":"Americana",
+        "image":"pizza11.png",
+        "price":"250",
+        "size":"Small"
+    },
+    {
+        "name":"Chiken mushroom",
+        "image":"pizza11.png",
+        "price":"325",
+        "size":"Large"
+    },
+    {
+        "name":"Vagies pizza",
+        "image":"pizza11.png",
+        "price":"420",
+        "size":"Large"
+    },
+    {
+        "name":"Papperoni",
+        "image":"pizza11.png",
+        "price":"300",
+        "size":"Medium"
+    }
+]
